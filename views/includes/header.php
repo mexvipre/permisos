@@ -130,7 +130,7 @@ estilos personalizados
                with font-awesome or any other icon font library -->
 
             <li class="nav-item">
-              <a href="#" class="nav-link">
+              <a href="<?= SERVERURL?>views/horarios/lista-horario.php" class="nav-link">
                 <i class="nav-icon fas fa-th"></i>
                 <p>
                   HORARIOS
@@ -149,7 +149,7 @@ estilos personalizados
               </a>
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link">
+              <a href="<?= SERVERURL?>views/permisos/lista-permiso.php" class="nav-link">
                 <i class="nav-icon fas fa-th"></i>
                 <p>
                   PERMISOS
