@@ -1,9 +1,9 @@
 <?php
-require_once "../app/config/app.php";
+require_once "../../app/config/app.php";
 ?>
 
 <?php
-require_once "./includes/header.php";
+require_once "../includes/header.php";
 ?>
 
     <!-- Content Wrapper. Contains page content -->
@@ -33,7 +33,7 @@ require_once "./includes/header.php";
 
           <!--Aqui el contenido mostrar  -->
 
-          <h1>soy un texto</h1>
+          <h1>Actualizar Colaboradores</h1>
 
 
           </div>
@@ -46,7 +46,7 @@ require_once "./includes/header.php";
 
    <?php
    // incluye las ultimas dos secciones : ASIDE   + FOOTER  Y <SCRIPT>
-   require_once "./includes/footer.php"
+   require_once "../includes/footer.php"
    ?>
 </body>
 
