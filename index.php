@@ -47,7 +47,7 @@ require_once "./app/config/app.php";
           <div class="col-12">
             <div class="icheck-primary">
               <input type="checkbox" id="remember">
-              <label for="remember">Recordar contraseña</label>
+              <label for="remember">Recordar </label>
             </div>
           </div>
         </div>
